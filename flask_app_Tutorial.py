@@ -1,5 +1,7 @@
 # Turning a Python script into a website
 # https://blog.pythonanywhere.com/169/
+# https://www.pythonanywhere.com/user/tafuruyama/files/home/tafuruyama/mysite/flask_app_Tutorial.py?edit
+# /home/tafuruyama/mysite/flask_app_Tutorial.py
 
 from flask import Flask, make_response, request
 
